@@ -1,1 +1,2 @@
-meu código da ramificação secundária
+meu código da ramificação secundária.
+Minha segunda linha de texto.
